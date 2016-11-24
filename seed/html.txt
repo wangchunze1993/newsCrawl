@@ -1,0 +1,666 @@
+
+<!DOCTYPE html>
+<html>
+ <head> 
+  <meta charset="utf-8" /> 
+  <title>WHITE FOX初原创TV动画「装神少女缠」带你看和风魔法少女 -178动漫频道</title> 
+  <meta name="keywords" content="动画,马猴烧酒,和风,装神少女" /> 
+  <meta name="Description" content="WHITE FOX将于2016年10月推出初次原创的TV动画「装神少女缠」！可爱的和风魔法少女即将诞生！" /> 
+  <link rel="shortcut icon" href="http://cimg.178.com/www/favicon.ico" type="image/x-icon" /> 
+  <meta name="viewport" content="width=1200">
+<link rel="stylesheet" href="http://cimg.178.com/acg/assets/css/plugin-0bd8a7eb.css">
+<link rel="stylesheet" href="http://cimg.178.com/acg/assets/css/base-ad3502ef.css">
+<style type="text/css">
+div.page-list .imgtextlist .ui-repeater .ui-repeater-item.ui-repeater-item--hidden .imgbox a img {
+    width: auto;
+    height: 100%;
+}
+.page-artical .content_lf .artical .artical-content{
+   max-height: 70000px;
+}
+
+.content_lf .artical{background:#fff;}
+.recommend{background:#fff;}
+ 
+body{
+  overflow-x: auto;
+}
+</style>
+ 
+  <link rel="stylesheet" href="http://cimg.178.com/acg/assets/css/cy_artical.css?v=2016072102" /> 
+ </head> 
+ <body> 
+  <script src="http://cimg.178.com/acg/assets/js/page/topbar.js"></script> 
+  <div class="wrapper"> 
+   <div class="page-artical"> 
+                <div class="head">
+                <div class="logo">
+                    <img class="logo-png" src="http://cimg.178.com/acg/assets/images/head-logo.png">
+                    <img class="logo-gif" src="http://cimg.178.com/acg/assets/images/head-logo.gif?v=20160718">
+                </div>
+                <div class="topbar-bg">
+                    <div class="topbar topbar-fix">
+                        <div class="ui-nav">
+                            <ul class="ui-nav-main">
+                                <li class="ui-nav-item">
+                                    <a href="http://acg.178.com" class=""><i class="ico ico010"></i>首页</a>
+                                </li>
+                                <li class="ui-nav-item">
+                                    <a href="http://acg.178.com/list/88134860671.html" class="" target="_black"><i class="ico ico01"></i>动漫情报</a>
+                                    <ul class="ui-nav-submain">
+                                        <li class="ui-nav-subitem ui-nav-subitem--current"><a href="http://acg.178.com/list/donghua/index.html" target="_black"><i class="ico ico-arrow ico09"></i>动画情报</a>
+                                        </li>
+                                        <li class="ui-nav-subitem"><a href="http://acg.178.com/list/manhua/index.html"  target="_black"><i class="ico ico-arrow ico09"></i>漫画情报</a></li>
+                                        <li class="ui-nav-subitem"><a href="http://acg.178.com/list/zr/index.html" target="_black"><i class="ico ico-arrow ico09"></i>真人/舞台剧</a></li>
+                                        <li class="ui-nav-subitem"><a href="http://acg.178.com/list/qxs/index.html" target="_black"><i class="ico ico-arrow ico09"></i>广播剧/轻小说/杂志</a></li>
+                                        <li class="ui-nav-subitem"><a href="http://acg.178.com/list/music/index.html" target="_black"><i class="ico ico-arrow ico09"></i>音乐/OP/ED/OST</a></li>
+                                    </ul>
+                                </li>
+                                <li class="ui-nav-item">
+                                    <a href="http://acg.178.com/list/manzhan/index.html" target="_black"><i class="ico ico02"></i>展会活动</a>
+                                    <ul class="ui-nav-submain">
+                                        <li class="ui-nav-subitem ui-nav-subitem--current"><a href="http://acg.178.com/list/94348416776.html" target="_black"><i class="ico ico-arrow ico09"></i>国内</a>
+                                        </li>
+                                        <li class="ui-nav-subitem"><a href="http://acg.178.com/list/210572055007.html" target="_black"><i class="ico ico-arrow ico09"></i>国外</a></li>
+                                    </ul>
+                                </li>
+                                <li class="ui-nav-item">
+                                    <a href="http://acg.178.com/list/goods/index.html" target="_black"><i class="ico ico03"></i>萌周边</a>
+                                    <ul class="ui-nav-submain">
+                                        <li class="ui-nav-subitem ui-nav-subitem--current"><a href="http://acg.178.com/list/niantu/index.html" target="_black"><i class="ico ico-arrow ico09"></i>黏土人偶</a>
+                                        </li>
+                                        <li class="ui-nav-subitem"><a href="http://acg.178.com/list/shouban/index.html" target="_black"><i class="ico ico-arrow ico09"></i>立体手办</a></li>
+                                        <li class="ui-nav-subitem"><a href="http://acg.178.com/list/zbqt/index.html" target="_black"><i class="ico ico-arrow ico09"></i>周边其他</a></li>
+                                    </ul>
+                                </li>
+                                <li class="ui-nav-item">
+                                    <a href="http://acg.178.com/list/262377910211.html" target="_black"><i class="ico ico04"></i>福利社</a>
+                                    <ul class="ui-nav-submain">
+                                        <li class="ui-nav-subitem ui-nav-subitem--current"><a href="http://acg.178.com/list/fu/index.html" target="_black"><i class="ico ico-arrow ico09"></i>腐女</a>
+                                        </li>
+                                        <li class="ui-nav-subitem"><a href="http://acg.178.com/list/262377924123.html" target="_black"><i class="ico ico-arrow ico09"></i>绅士</a></li>
+                                        
+                                    </ul>
+                                </li>
+                                <li class="ui-nav-item">
+                                    <a href="http://acg.178.com/list/84509538487.html" target="_black"><i class="ico ico05"></i>万事屋</a>
+                                    <ul class="ui-nav-submain">
+                                        <li class="ui-nav-subitem ui-nav-subitem--current"><a href="http://acg.178.com/list/262378088052.html" target="_black"><i class="ico ico-arrow ico09"></i>涨姿势</a>
+                                        </li>
+                                        <li class="ui-nav-subitem"><a href="http://acg.178.com/list/lieqi/index.html" target="_black"><i class="ico ico-arrow ico09"></i>猎奇文化</a></li>
+                                    </ul>
+                                </li>
+                                <li class="ui-nav-item">
+                                    <a href="http://acg.178.com/list/262377171368.html" target="_black"><i class="ico ico06"></i>游戏宅</a>
+                                </li>
+                                <li class="ui-nav-item">
+                                    <a href="http://acg.178.com/list/bagua/index.html" target="_black"><i class="ico ico07"></i>八卦谈</a>
+                                </li>
+                            </ul>
+                        </div>
+                        <form class="ui-form" target="_blank" method="get" action="http://search.178.com/cse/search">
+                            <label class="ui-label">
+                                <button type="submit" class="ico ico-search ico08"></button>
+                                <input class="ui-input" type="search" placeholder="请输入关键字进行搜索" name="q" autocomplete="off" />
+                                <input type="hidden" name="s" value="218385077280921315" />
+                            </label>
+                        </form>
+                    </div>
+                </div>
+            </div>
+ 
+    <div class="container"> 
+     <div class="fn-wrap"> 
+      <div class="content"> 
+       <!-- 面包屑 --> 
+       <div class="breadcrumb"> 
+        <a href="http://acg.178.com/" target="_self" title="178动漫频道">178动漫频道</a> 
+        <span>&gt;</span> 
+        <!-- <a href="javascript:;" class="active">新闻频道</a> --> 
+        <a href="/list/bagua/index.html" title="八卦">八卦</a> 
+        <span>/</span> 
+        <a href="/list/donghua/index.html" title="动画情报">动画情报</a> 
+        <span>/</span> 
+        <a href="/list/88134860671.html" title="动漫资讯">动漫资讯</a> 
+        <span>/</span> 
+        <a href="/list/65387403077.html" title="动漫情报">动漫情报</a> 
+        <span>&gt;</span> 
+        <a href="javascript:;" rel="nofollow">WHITE FOX初原创TV动画「装神少女缠」带你看和风魔法少女</a> 
+       </div> 
+       <div class="content_lf"> 
+        <div class="artical ui-rt-border"> 
+         <h1 class="artical-title"> WHITE FOX初原创TV动画「装神少女缠」带你看和风魔法少女 </h1> 
+         <div class="artical-info"> 
+          <div class="bdsharebuttonbox bdsharebuttonbox-t" data-tag="share_1"> 
+           <label>分享到：</label> 
+           <a href="javascript:;" class="bds_tsina tsina" data-cmd="tsina" rel="nofollow"></a> 
+           <a href="javascript:;" class="bds_sqq tqq" data-cmd="sqq" rel="nofollow"></a> 
+           <a href="javascript:;" class="tweixin" rel="nofollow"></a> 
+           <a href="javascript:;" class="bds_qzone tqzone" data-cmd="qzone" rel="nofollow"></a> 
+           <div class="bwechatbox"> 
+            <em>分享到微信朋友圈</em> 
+            <div> 
+             <img src="" class="wechat_img" width="250" height="250" /> 
+            </div> 
+            <span>打开微信，点击底部的“发现”，<br />使用“扫一扫”即可将网页分享至朋友圈。</span> 
+           </div> 
+          </div> 
+          <div class="author">
+            作者：红豆泥 
+           <span class="time">2016-07-17</span> 
+          </div> 
+         </div> 
+         <!-- 文章正文 --> 
+         <div class="artical-content"> 
+          <!-- 摘要
+                                                                        <div class="abstract">
+                                        <p>
+                                            WHITE FOX将于2016年10月推出初次原创的TV动画「装神少女缠」！可爱的和风魔法少女即将诞生！
+                                        </p>
+                                    </div>
+                                     --> 
+          <!-- 段落 --> 
+          <p><span style="font-family: 宋体;">　　<span lang="EN-US">WHITE FOX</span>将于<span lang="EN-US">2016</span>年<span lang="EN-US">10</span>月推出初次原创的<span lang="EN-US">TV</span>动画<strong>「装神少女缠」</strong>！可爱的和风魔法少女即将诞生！主演的声优也已确定，主人公皇缠的声优为诹访彩花、草薙由麻的声优为大空直美，库拉蕾丝&middot;托尼托拉斯的声优为户松遥。</span></p> 
+          <p><span style="font-family: 宋体;">　　同时<span lang="EN-US">YouTube</span>也开设了官方频道！现在<span lang="EN-US">CM</span>动画正在公开中！<span lang="EN-US">PV</span>和其他原创内容也将陆续公开。并且在同一个频道会有<span lang="EN-US">Web</span>广播！片尾主题歌也确定为<span lang="EN-US">Sphere</span>演唱。「京都国际漫画动画展<span lang="EN-US">2016</span>」上决定开设舞台活动<span lang="EN-US">&amp;</span>先行上映会。这次将介绍公开的新情报。</span><span><span lang="EN-US">
+             <o:p></o:p></span></span></p> 
+          <p><span style="font-family: 宋体;">　　<b>◆宣传海报公开！</b></span><b><span><span lang="EN-US">
+              <o:p></o:p></span></span></b></p> 
+          <p style="text-align: center;">&nbsp;<img src="http://img2.178.com/acg1/201607/262747614654/262748357055.jpg" alt="" name="_img" style="text-align: center;" /></p> 
+          <p><span style="font-family: 宋体;"> </span></p> 
+          <p>　　<b>◆<span lang="EN-US">CM</span>动画<span lang="EN-US">&amp;</span>场景片段公开！</b></p> 
+          <p><span style="font-family: 宋体;">　　<a href="http://v.youku.com/v_show/id_XMTY0NDY0ODQ5Ng==.html" rel="nofollow">●【番宣】<span lang="EN-US">10</span>月新番组「装神少女缠」番宣<span lang="EN-US">CM</span>（<span lang="EN-US">30</span>秒）</a></span><span style="font-family: 宋体;"><a href="http://v.youku.com/v_show/id_XMTY0NDY0ODQ5Ng==.html" rel="nofollow">　</a></span></p> 
+          <p style="text-align: center;"><img src="http://img4.178.com/acg1/201607/262747614654/262748357112.jpg" alt="" name="_img" style="text-align: center;" /></p> 
+          <p style="text-align: center;"><img src="http://img1.178.com/acg1/201607/262747614654/262748357135.jpg" alt="" name="_img" /></p> 
+          <p style="text-align: center;"><img src="http://img5.178.com/acg1/201607/262747614654/262748357158.jpg" alt="" name="_img" /></p> 
+          <p style="text-align: center;"><img src="http://img0.178.com/acg1/201607/262747614654/262748357179.jpg" alt="" name="_img" /></p> 
+          <p style="text-align: center;"><img src="http://img4.178.com/acg1/201607/262747614654/262748357203.jpg" alt="" name="_img" /></p> 
+          <p style="text-align: center;"><img src="http://img3.178.com/acg1/201607/262747614654/262748357224.jpg" alt="" name="_img" /></p> 
+          <p style="text-align: center;"><img src="http://img0.178.com/acg1/201607/262747614654/262748357244.jpg" alt="" name="_img" /></p> 
+          <p style="text-align: center;"><img src="http://img2.178.com/acg1/201607/262747614654/262748357262.jpg" alt="" name="_img" /></p> 
+          <p><span lang="EN-US">
+            <o:p></o:p></span></p> 
+          <p><span style="font-family: 宋体;">　　<b>◆登场人物介绍</b></span></p> 
+          <p style="text-align: center;"><img src="http://img5.178.com/acg1/201607/262747614654/262748357282.jpg" alt="" name="_img" style="text-align: center;" /></p> 
+          <p><span lang="EN-US">
+            <o:p></o:p></span></p> 
+          <p><span style="font-family: 宋体;">　　<span lang="EN-US">●</span><b>缠</b><b>（<span lang="EN-US">CV.</span></b><b>诹访</b><b>彩花）</b></span><span lang="EN-US">
+            <o:p></o:p></span></p> 
+          <p><span style="font-family: 宋体;">　　<span lang="EN-US">14</span>岁，中学<span lang="EN-US">2</span>年级学生，在天万神社兼职当巫女。母亲下落不明所以之前一直和祖父母一起住，现在和父亲伸吾一起生活。代替母亲做所有家事，虽然年纪小可是做事十分认真。梦想着有一天能够和父母一起过上普通的生活。持有神之巫女（依代）的因子，有了降妖除魔的能力，开始了退魔活动。</span></p> 
+          <p style="text-align: center;"><img src="http://img0.178.com/acg1/201607/262747614654/262748357301.jpg" alt="" name="_img" style="text-align: center;" /></p> 
+          <p><span lang="EN-US">
+            <o:p></o:p></span></p> 
+          <p><span style="font-family: 宋体;">　　<b>●由麻（<span lang="EN-US">CV.</span>大空直美）</b></span><span lang="EN-US">
+            <o:p></o:p></span></p> 
+          <p><span style="font-family: 宋体;">　　<span lang="EN-US">13</span>岁的中学<span lang="EN-US">1</span>年级学生。天万神社的巫女候补。天真浪漫的性格，想到的事立即去做，靠直觉行动的元气少女。十分憧憬万天神社的退魔的巫女，并一直认为自己可以当上巫女。因为好奇把神器拿出来，结果使缠有了退魔的能力。</span></p> 
+          <p style="text-align: center;"><img src="http://img5.178.com/acg1/201607/262747614654/262748357319.jpg" alt="" name="_img" style="text-align: center;" /></p> 
+          <p><span><span lang="EN-US">
+             <o:p></o:p></span></span></p> 
+          <p><span style="font-family: 宋体;">　　<b><span lang="JA">●クラルス</span></b><b><span lang="JA">?</span></b><b><span lang="JA">トニトルス</span></b><b><span lang="JA">库</span></b><b><span lang="JA">拉蕾</span></b><b><span lang="JA">丝</span></b><b><span lang="JA">?托尼托拉斯（</span></b><b><span lang="EN-US">CV.</span></b><b><span lang="JA">户松遥）</span></b></span><span lang="EN-US">
+            <o:p></o:p></span></p> 
+          <p><span style="font-family: 宋体;">　　梵蒂冈直属秘密特务机关“<span lang="EN-US">Fatima</span>”的一员，<span lang="EN-US"> 15</span>岁。<span lang="EN-US">Fatima</span>是不受法律约束的驱魔专门机关，她是被叫做“<span lang="EN-US">Anti Creed</span>”的驱魔人之一。因为任务被派遣到日本，然后与缠以及由麻相遇。</span><span><span lang="EN-US">
+             <o:p></o:p></span></span></p> 
+          <p><span style="font-family: 宋体;">　　<b>◆用语解说</b></span><span lang="EN-US">
+            <o:p></o:p></span></p> 
+          <p><span style="font-family: 宋体;">　　●「附神」</span><span><span lang="EN-US">
+             <o:p></o:p></span></span></p> 
+          <p><span style="font-family: 宋体;">　　供奉天万神社的神主一族世代继承下来的，神降临到人身体上的仪式。让仪式成立必须要有神器和舞。并不是能降临到每个人身上，人需要有能接受神灵的因子。</span><span><span lang="EN-US">
+             <o:p></o:p></span></span></p> 
+          <p><span style="font-family: 宋体;">　　●「缠创」</span><span><span lang="EN-US">
+             <o:p></o:p></span></span></p> 
+          <p><span style="font-family: 宋体;">　　神降临到人身上之后人与神统一的状态。能够发挥惊人的力量。除了穿上神衣，外表也会发生其他变化。解除缠创之后，神衣就会消失。</span><span><span lang="EN-US">
+             <o:p></o:p></span></span></p> 
+          <p><span style="font-family: 宋体;">　　<b>◆「装神少女</b><b>缠</b><b>」官方<span lang="EN-US">YouTube</span>频道开设！</b></span><span lang="EN-US">
+            <o:p></o:p></span></p> 
+          <p><span style="font-family: 宋体;">　　★<span lang="EN-US">PV</span>以外，其他内容也将持续公开！</span><span><span lang="EN-US">
+             <o:p></o:p></span></span></p> 
+          <p><span style="font-family: 宋体;">　　频道<span lang="EN-US">URL</span>：</span><span><span lang="EN-US"><span style="font-family: 宋体;"><a href="https://www.youtube.com/channel/UCXgkiKPqMz3hsm25DMRA6GQ" rel="nofollow">https://www.youtube.com/channel/UCXgkiKPqMz3hsm25DMRA6GQ</a></span>
+             <o:p></o:p></span></span></p> 
+          <p><span style="font-family: 宋体;">　　★在官方<span lang="EN-US">YouTube</span>频道，<span lang="EN-US">Web</span>广播将于<span lang="EN-US">8</span>月上旬更新！</span></p> 
+          <p style="text-align: center;"><img src="http://img3.178.com/acg1/201607/262747614654/262748357340.jpg" alt="" name="_img" style="text-align: center;" /></p> 
+          <p><span><span lang="EN-US">
+             <o:p></o:p></span></span></p> 
+          <p style="text-align: center;"><span style="font-family: 宋体;">　　左诹访彩花，右大空直美</span><span><span lang="EN-US">
+             <o:p></o:p></span></span></p> 
+          <p><span style="font-family: 宋体;">　　番组标题：诹访彩花和大空直美的「“送信”少女缠」广播！！</span><span><span lang="EN-US">
+             <o:p></o:p></span></span></p> 
+          <p><span style="font-family: 宋体;">　　出演：诹访彩花（皇 缠）、大空直美（草薙由麻役）</span><span><span lang="EN-US">
+             <o:p></o:p></span></span></p> 
+          <p><span style="font-family: 宋体;">　　※<span lang="EN-US">10</span>月开始在<span lang="EN-US">KBS</span>京都广播放送！</span><span><span lang="EN-US">
+             <o:p></o:p></span></span></p> 
+          <p><span style="font-family: 宋体;">　　<b>◆<span lang="EN-US">ED</span>主题歌由<span lang="EN-US">Sphere</span>演唱！约隔<span lang="EN-US">1</span>年的<span lang="EN-US">TV</span>动画合作单曲！</b></span><b><span><span lang="EN-US">
+              <o:p></o:p></span></span></b></p> 
+          <p><span style="font-family: 宋体;">　　<b>＜<span lang="EN-US">Sphere</span>介绍＞</b></span><b><span lang="EN-US">
+             <o:p></o:p></span></b></p> 
+          <p><span style="font-family: 宋体;">　　<span lang="EN-US">Sphere</span>是由声优公司<span lang="EN-US"> Music Ray'n </span>所属的四名女性声优寿美菜子、高垣彩阳、户松遥、丰崎爱生成立的四人组合。在<span lang="EN-US">2009</span>年<span lang="EN-US">2</span>月结成后，在日本武道馆、代代木第一体育馆和横滨<span lang="EN-US">arena 2 days</span>等举办<span lang="EN-US">Live</span>。在动画和音乐以外的很多领域都很活跃！</span><span><span lang="EN-US">
+             <o:p></o:p></span></span></p> 
+          <p><span style="font-family: 宋体;">　　<b>◆京都国际漫画动画展<span lang="EN-US">2016</span>上举行舞台活动<span lang="EN-US">&amp;</span>先行上映会！</b></span><span lang="EN-US">
+            <o:p></o:p></span></p> 
+          <p><span style="font-family: 宋体;">　　●京都国际漫画动画展舞台<span lang="EN-US">9</span>月<span lang="EN-US">17</span>日<span lang="EN-US">13:00</span>～<span lang="EN-US">13:30</span>广播公开录音决定！</span><span><span lang="EN-US">
+             <o:p></o:p></span></span></p> 
+          <p><span style="font-family: 宋体;">　　出演：诹访彩花（皇缠）、大空直美（草薙由麻）</span><span><span lang="EN-US">
+             <o:p></o:p></span></span></p> 
+          <p><span style="font-family: 宋体;">　　●<span lang="EN-US">TV</span>动画「装神少女缠」最早先行上映会<span lang="EN-US">in</span>京都举办决定！</span><span><span lang="EN-US">
+             <o:p></o:p></span></span></p> 
+          <p><span style="font-family: 宋体;">　　举办日：<span lang="EN-US">2016</span>年<span lang="EN-US">9</span>月<span lang="EN-US">17</span>日</span><span><span lang="EN-US">
+             <o:p></o:p></span></span></p> 
+          <p><span style="font-family: 宋体;">　　会场：京都计算机学院京都站前学校</span><span><span lang="EN-US">
+             <o:p></o:p></span></span></p> 
+          <p><span style="font-family: 宋体;">　　出演：诹访彩花（皇缠）、大空直美（草薙由麻）</span><span><span lang="EN-US">
+             <o:p></o:p></span></span></p> 
+          <p><span style="font-family: 宋体;">　　门票：收费※日后公布详细内容</span><span><span lang="EN-US">
+             <o:p></o:p></span></span></p> 
+          <p><span style="font-family: 宋体;">　　活动内容：本篇最早先行上映<span lang="EN-US">&amp;</span>声优<span lang="EN-US">talk</span></span><span><span lang="EN-US">
+             <o:p></o:p></span></span></p> 
+          <p><span style="font-family: 宋体;">　　<b>◆『装神少女</b><b>缠</b><b>』作品情报</b></span><span lang="EN-US">
+            <o:p></o:p></span></p> 
+          <p><span style="font-family: 宋体;">　　★<span lang="EN-US">2016</span>年<span lang="EN-US">10</span>月开始放送！</span><span><span lang="EN-US">
+             <o:p></o:p></span></span></p> 
+          <p><span style="font-family: 宋体;">　　<b>＜剧情梗概＞</b></span><span lang="EN-US">
+            <o:p></o:p></span></p> 
+          <p><span style="font-family: 宋体;">　　西历<span lang="EN-US">2016 </span>年，初二学生皇缠平时在「天万神社」兼职做巫女。小时候母亲离开，她就长期和爷爷奶奶居住在一起，三个月前终于开始和父亲伸吾一起生活。因为有着这样的境遇，皇缠希望过平凡又平静的日常生活。</span><span><span lang="EN-US">
+             <o:p></o:p></span></span></p> 
+          <p><span style="font-family: 宋体;">　　皇缠的好朋友草薙由麻是「天万神社」神主一组出生的下届巫女候选人。她在得知了自己一族从事退魔的工作，世代的巫女都要肩负这个使命，在缠的邀请下准备挑战附神仪式。</span><span><span lang="EN-US">
+             <o:p></o:p></span></span></p> 
+          <p><span style="font-family: 宋体;">　　放学后两人像往常一样前往神社，结果发现神社被破坏由麻的父母也受伤倒下。刑警伸吾正在询问一起奇怪事件的重要参考人，却不料证人被什么奇怪的东西缠上突然暴走。由麻为了制止这个男人立刻念起附神的咒语，然而真正被附神的不是由麻而是――。</span><span><span lang="EN-US">
+             <o:p></o:p></span></span></p> 
+          <p><span style="font-family: 宋体;">　　渴望平凡普通的生活的少女皇缠从此拥有神灵附体降妖除魔的能力！？为了取回自己的日常生活皇缠开始了降魔活动。</span></p> 
+          <p style="text-align: center;"><img src="http://img5.178.com/acg1/201607/262747614654/262748357357.jpg" alt="" name="_img" style="text-align: center;" /></p> 
+          <p><span lang="EN-US">
+            <o:p></o:p></span></p> 
+          <p><span style="font-family: 宋体;">　　<b><span lang="JA">＜</span></b><b><span lang="EN-US">STAFF</span></b><b><span lang="JA">＞</span></b></span><span lang="EN-US">
+            <o:p></o:p></span></p> 
+          <p><span style="font-family: 宋体;">　　<span lang="JA">监督：迫井政行</span></span><span lang="EN-US">
+            <o:p></o:p></span></p> 
+          <p><span style="font-family: 宋体;">　　<span lang="JA">系列构成</span><span lang="JA">?</span><span lang="JA">脚本：黑田洋介</span></span><span lang="EN-US">
+            <o:p></o:p></span></p> 
+          <p><span style="font-family: 宋体;">　　<span lang="JA">角色设计</span><span lang="JA">?</span><span lang="JA">总作画监督：</span><span lang="JA">户</span><span lang="JA">田麻衣</span></span><span lang="EN-US">
+            <o:p></o:p></span></p> 
+          <p><span style="font-family: 宋体;">　　<span lang="JA">设定考证：白土晴一</span></span><span lang="EN-US">
+            <o:p></o:p></span></p> 
+          <p><span style="font-family: 宋体;">　　<span lang="JA">分镜：</span><span lang="JA">コレサワシゲユキ</span><span lang="JA">、灯梦</span></span><span lang="EN-US">
+            <o:p></o:p></span></p> 
+          <p><span style="font-family: 宋体;">　　道具设定：岩畑刚一、铃木典孝</span><span><span lang="EN-US">
+             <o:p></o:p></span></span></p> 
+          <p><span style="font-family: 宋体;">　　美术监督：高峰义人／美术设定：青木薰</span><span><span lang="EN-US">
+             <o:p></o:p></span></span></p> 
+          <p><span style="font-family: 宋体;">　　色彩设计：佐藤美由纪</span><span><span lang="EN-US">
+             <o:p></o:p></span></span></p> 
+          <p><span style="font-family: 宋体;">　　特效：荒畑步美</span><span><span lang="EN-US">
+             <o:p></o:p></span></span></p> 
+          <p><span style="font-family: 宋体;">　　<span lang="EN-US">3D</span><span lang="JA">制作</span><span lang="JA">?</span><span lang="JA">造型：相</span><span lang="JA">马</span><span lang="JA">洋</span></span><span lang="EN-US">
+            <o:p></o:p></span></p> 
+          <p><span style="font-family: 宋体;">　　<span lang="JA">摄影监督：染谷和正</span></span><span lang="EN-US">
+            <o:p></o:p></span></p> 
+          <p><span style="font-family: 宋体;">　　编集：后藤正浩</span><span><span lang="EN-US">
+             <o:p></o:p></span></span></p> 
+          <p><span style="font-family: 宋体;">　　音响监督：山口贵之</span><span><span lang="EN-US">
+             <o:p></o:p></span></span></p> 
+          <p><span style="font-family: 宋体;">　　<span lang="JA">音响工作室：</span><span lang="EN-US">HALF H</span><span lang="JA">?</span><span lang="EN-US">P STUDIO</span></span><span lang="EN-US">
+            <o:p></o:p></span></p> 
+          <p><span style="font-family: 宋体;">　　<span lang="JA">音乐：加藤达也／音</span><span lang="JA">乐制作</span><span lang="JA">：</span><span lang="EN-US">Lantis</span></span><span lang="EN-US">
+            <o:p></o:p></span></p> 
+          <p><span style="font-family: 宋体;">　　<span lang="JA">制片：</span><span lang="EN-US">infinite</span></span><span lang="EN-US">
+            <o:p></o:p></span></p> 
+          <p><span style="font-family: 宋体;">　　动画制作公司：<span lang="EN-US">WHITE FOX</span></span><span><span lang="EN-US">
+             <o:p></o:p></span></span></p> 
+          <p><span style="font-family: 宋体;">　　<b>＜声优＞</b></span><span lang="EN-US">
+            <o:p></o:p></span></p> 
+          <p><span style="font-family: 宋体;">　　皇缠：诹访彩花</span><span><span lang="EN-US">
+             <o:p></o:p></span></span></p> 
+          <p><span style="font-family: 宋体;">　　草薙由麻：大空直美</span><span><span lang="EN-US">
+             <o:p></o:p></span></span></p> 
+          <p><span style="font-family: 宋体;">　　库拉蕾丝?托尼托拉斯：戸松遥</span><span><span lang="EN-US">
+             <o:p></o:p></span></span></p> 
+          <p style="text-align: center;"><strong><img alt="" src="http://img0.178.com/acg1/201304/159502136102/159502145898.jpg" /></strong></p> 
+          <p style="text-align: center;">　　<span style="color: rgb(255, 0, 255);">扫一扫妖妖子~欢迎调戏！</span></p> 
+         </div> 
+         <div class="funmodule"> 
+          <!-- 相关文章 --> 
+          <!-- 分页 --> 
+          <div class="sharewrap"> 
+           <!-- 分享 --> 
+           <div class="bdsharebuttonbox bdsharebuttonbox-b" data-tag="share_1"> 
+            <label>分享到：</label> 
+            <a href="javascript:;" class="bds_tsina bsina" data-cmd="tsina" rel="nofollow"></a> 
+            <a href="javascript:;" class="bds_sqq bqq" data-cmd="sqq" rel="nofollow"></a> 
+            <a href="javascript:;" class="bweixin" rel="nofollow"></a> 
+            <a href="javascript:;" class="bds_qzone bqzone" data-cmd="qzone" rel="nofollow"></a> 
+            <div class="bwechatbox"> 
+             <em>分享到微信朋友圈</em> 
+             <div> 
+              <img src="" class="wechat_img" width="250" height="250" /> 
+             </div> 
+             <span>打开微信，点击底部的“发现”，<br />使用“扫一扫”即可将网页分享至朋友圈。</span> 
+            </div> 
+           </div> 
+          </div> 
+         </div> 
+         <!-- 讨论 --> 
+         <div class="comment"> 
+          <div id="cyQing" role="cylabs" data-use="qing" sid="acg_262744048981"></div> 
+          <div class="comment-item"> 
+           <div id="SOHUCS" sid="acg_262744048981"></div> 
+           <script>!function(){var t="cysrntF12",e="prod_f1726814b17672ba202150a73b633bd8";window._config={categoryId:"178acg"};var n=window.innerWidth||document.documentElement.clientWidth;if(n<960)window.document.write('<script id="changyan_mobile_js" charset="utf-8" type="text/javascript" src="http://changyan.sohu.com/upload/mobile/wap-js/changyan_mobile.js?client_id='+t+"&conf="+e+'"><\/script>');else{var a=function(t,e){var n=document.getElementsByTagName("head")[0]||document.head||document.documentElement,a=document.createElement("script");a.setAttribute("type","text/javascript"),a.setAttribute("charset","UTF-8"),a.setAttribute("src",t),"function"==typeof e&&(window.attachEvent?a.onreadystatechange=function(){var t=a.readyState;"loaded"!==t&&"complete"!==t||(a.onreadystatechange=null,e())}:a.onload=e),n.appendChild(a)};a("http://changyan.sohu.com/upload/changyan.js",function(){window.changyan.api.config({appid:t,conf:e})})}}()</script> 
+          </div> 
+         </div> 
+        </div> 
+       </div> 
+       <div class="content_rt"> 
+        <div class="sidebar"> 
+         <!-- 广告位：动漫文章页右侧矩阵  -->
+<script type="text/javascript" src="http://gg.stargame.com/g.js"></script>
+<script type="text/javascript">SG_GG(3810);</script> 
+ 
+                                         <!-- 妖妖子推荐 -->
+                                <div class="recommend ui-rt-border">
+                                    <div class="hd">
+                                        <div class="ui-title">
+                                            <div class="tit">
+                                                <div class="pic"><img src="http://cimg.178.com/acg/assets/images/tj.png"></div>
+                                                <span class="text">妖妖子推荐</span>
+                                            </div>
+                                        </div>  
+                                    </div>
+                                    <div class="bd">
+                                        <ul class="ui-repeater">
+                                                                                                                                <li class="ui-repeater-item">
+                                                <div class="img">
+                                                    <a href="/201608/264724082819.html">
+                                                        <img src="http://img3.178.com/acg1/201608/264724082819/264729426845.jpg">
+                                                    </a>
+                                                </div>
+                                                <div class="title">
+                                                    <a href="/201608/264724082819.html">
+                                                        马猴烧酒？妹抖？妹抖咖啡「王立Afilia魔法学院」开新店啦！
+                                                    </a>
+                                                </div>
+                                            </li>
+                                                                                    <li class="ui-repeater-item">
+                                                <div class="img">
+                                                    <a href="/201608/264722883425.html">
+                                                        <img src="http://img5.178.com/acg1/201608/264720838716/264723713362.jpg">
+                                                    </a>
+                                                </div>
+                                                <div class="title">
+                                                    <a href="/201608/264722883425.html">
+                                                        【秋叶原Figma情报】赫斯缇雅等即将发售的手办展示中（内含福利）
+                                                    </a>
+                                                </div>
+                                            </li>
+                                                                                    <li class="ui-repeater-item">
+                                                <div class="img">
+                                                    <a href="/201608/264645003171.html">
+                                                        <img src="http://img2.178.com/acg1/201608/264645003171/264645240712.jpg">
+                                                    </a>
+                                                </div>
+                                                <div class="title">
+                                                    <a href="/201608/264645003171.html">
+                                                        广志爸爸快点好起来！声优藤原启治因病休养须暂停工作
+                                                    </a>
+                                                </div>
+                                            </li>
+                                                                                    <li class="ui-repeater-item">
+                                                <div class="img">
+                                                    <a href="http://acg.178.com/201608/264556953715.html">
+                                                        <img src="http://img.178.com/acg1/201608/264638780460/264638809348.gif">
+                                                    </a>
+                                                </div>
+                                                <div class="title">
+                                                    <a href="http://acg.178.com/201608/264556953715.html">
+                                                        【专题】他的作品用另外一种方式走进了我们内心...
+                                                    </a>
+                                                </div>
+                                            </li>
+                                                                                    <li class="ui-repeater-item">
+                                                <div class="img">
+                                                    <a href="/201607/263610591244.html">
+                                                        <img src="http://img4.178.com/acg1/201607/263783354210/263783362633.jpg">
+                                                    </a>
+                                                </div>
+                                                <div class="title">
+                                                    <a href="/201607/263610591244.html">
+                                                        手办！等身模型！还有1:1EVA初号机？妖妖子带你抢先看CJ！
+                                                    </a>
+                                                </div>
+                                            </li>
+                                                                                </ul>
+                                    </div>
+                                </div>
+ 
+                                         <!-- 近期热词 -->
+                                <div class="hotword ui-rt-border">
+                                    <div class="hd">
+                                        <div class="ui-title">
+                                            <div class="tit">
+                                                <div class="pic"><img src="http://cimg.178.com/acg/assets/images/jqrc.png"></div>
+                                                <span class="text">HOT索引</span>
+                                            </div>
+                                        </div>  
+                                    </div>
+                                    <div class="bd" style="width:300px">
+                                        <!-- 改变标签样式，增加a标签类的样式，基本样式<a class="label">
+                                        粉色:class="label label--pink"
+                                        紫色:class="label label--purple"
+                                        蓝色:class="label label--blue"
+                                        橘色:class="label label--orange"
+                                        绿色:class="label label--green" -->
+                                        <a href="http://acg.178.com/201606/259966617628.html" target="_blank" class="label label--pink">WCS2016</a>
+<a href="http://acg.178.com/201607/262810181937.html" target="_blank" class="label">缘之空</a>
+<a href="http://acg.178.com/list/manhua/" target="_blank" class="label">漫画</a>
+
+										<a href="http://acg.178.com/201607/261972412093.html" target="_blank" class="label">声之形</a>
+<a href="http://acg.178.com/201606/260403548647.html" target="_blank" class="label">绅士向</a>
+<a href="http://acg.178.com/201606/261167843734.html" target="_blank" class="label">御伽ねこむ</a>
+
+
+										<a href="http://acg.178.com/201607/263434606322.html" target="_blank" class="label">最游记RELOAD BLAST
+</a>
+<a href="http://acg.178.com/201608/264984947870.html" target="_blank" class="label label--orange">C90</a>
+
+
+										
+<a href="http://acg.178.com/201607/262034015383.html" target="_blank" class="label">甲铁城</a>
+<a href="http://acg.178.com/201111/t_116460585392.html" target="_blank" class="label label--green">老版入口</a>
+<a href="http://acg.178.com/201606/259804634090.html" target="_blank" class="label label--orange">7月新番</a>
+
+										<a href="http://acg.178.com/201607/262313407927.html" target="_blank" class="label label--purple">Re：从零开始的异世界生活</a>
+<a href="http://acg.178.com/201607/263429519571.html" target="_blank" class="label">WF</a>
+
+<a href="http://acg.178.com/list/miku/" target="_blank" class="label">初音</a>
+										<a href="http://acg.178.com/201608/264812530770.html" target="_blank" class="label">刀剑神域</a>
+<a href="http://acg.178.com/201608/264976560184.html" target="_blank" class="label">口袋妖怪Go</a>
+
+
+										<a href="http://acg.178.com/201608/264722883425.html" target="_blank" class="label">秋叶原</a>
+<a href="http://acg.178.com/201607/261343873823.html" target="_blank" class="label">阿松</a>
+<a href="http://acg.178.com/201607/263417852968.html" target="_blank" class="label">BLAME!</a>
+<a href="http://acg.178.com/201607/261702900897.html" target="_blank" class="label label--bule">驱魔少年HALLOW</a>
+
+										<a href="http://acg.178.com/201607/263780186906.html" target="_blank" class="label">CJ2016</a>
+<a href="http://acg.178.com/201608/264819729236.html" target="_blank" class="label">世界Cosplay2016</a>
+<a href="http://acg.178.com/201607/261690673779.html" target="_blank" class="label label--pink">魔装学园 H×H</a>
+                                    </div>
+                                </div>
+ 
+                                         <div class="tucao ui-rt-border">
+                                    <div class="hd">
+                                        <div class="ui-title">
+                                            <div class="tit">
+                                                <div class="pic"><img src="http://cimg.178.com/acg/assets/images/tcb.png"></div>
+                                                <span class="text">吐槽榜</span>
+                                            </div>
+                                        </div>  
+                                    </div>
+                                    <div class="bd">
+                                        <div id="cyHotnews" role="cylabs" data-use="hotnews"></div>
+		<script>
+		window._config = { categoryId : '178acg'}
+		</script>
+		<script type="text/javascript" charset="utf-8" src="http://changyan.itc.cn/js/lib/jquery.js"></script>
+		<script type="text/javascript" charset="utf-8" src="https://changyan.sohu.com/js/changyan.labs.https.js?appid=cysrntF12 
+
+"></script>
+                                    </div>
+                                </div>
+ 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+                <div class="foot">
+                <div class="fn-wrap">
+                    <div class="foot-info">
+                        <div class="cooperation">
+                            <h3 class="title">商务合作</h3>
+                            <ul class="ui-repeater">
+                                <li class="ui-repeater-item">
+                                    媒体合作QQ：
+                                    <a href="javascript:;">2949530740</a>
+                                </li>
+                               
+                                <li class="ui-repeater-item">
+                                    178ACG粉丝1群（满员）：
+                                    <a href="http://jq.qq.com/?_wv=1027&k=2B2X9lK">199811735</a>
+                                </li>
+
+                                
+                                <li class="ui-repeater-item">
+                                    178ACG粉丝2群（招募）：
+                                    <a href="http://jq.qq.com/?_wv=1027&k=2EhoAOK">132332209</a>
+                                </li>
+
+                                <li class="ui-repeater-item">
+                                    稿件投递信箱：<a href="mailto:178ACG@stargame.com" style="color:#7a797c">178ACG#stargame.com</a>
+                                </li>
+                            </ul>
+                        </div>
+                        <div class="friendlink">
+                            <h3 class="title">友情链接</h3>
+                            <ul class="ui-repeater">
+                                <li class="ui-repeater-item">
+                                    <a target="_blank" href="http://zt.tgbus.com/">电玩巴士游戏专题</a>/
+                                </li>
+                                <li class="ui-repeater-item">
+                                    <a target="_blank" href="http://www.narutom.com/">火影忍者中文网</a>/
+                                </li>
+                            
+                                <li class="ui-repeater-item">
+                                    <a target="_blank" href="http://www.zongheng.com/">纵横中文小说网</a>/
+                                </li>
+                             
+                                <li class="ui-repeater-item">
+                                    <a target="_blank" href="http://www.yaojingweiba.com/">妖精的尾巴中文网</a>/
+                                </li>
+                                            <li class="ui-repeater-item">
+                                    <a target="_blank" href="http://op.hanhande.com/">海贼王</a>/
+                                </li>
+                                             <li class="ui-repeater-item">
+                                    <a target="_blank" href="http://www.4399dmw.com/">动漫网</a>/
+                                </li>
+                                <li class="ui-repeater-item">
+                                    <a target="_blank" href="http://acg.gamersky.com/">动漫星空</a>/
+                                </li>
+                                <li class="ui-repeater-item">
+                                    <a target="_blank" href="http://www.idanmu.me/">爱弹幕</a>/
+                                </li>
+                                <li class="ui-repeater-item">
+                                    <a target="_blank" href="http://www.bufan.com/">不凡游戏</a>/
+                                </li>
+                                <li class="ui-repeater-item">
+                                    <a target="_blank" href="http://www.kan300.com/">在线动漫网</a>/
+                                </li>
+                                <li class="ui-repeater-item">
+                                    <a target="_blank" href="http://www.pangci.cc/">胖次网</a>/
+                                </li>
+                                                                <li class="ui-repeater-item">
+                                    <a target="_blank" href="http://www.hltm.tv/">红旅动漫</a>/
+                                </li>
+                                <li class="ui-repeater-item" style="display:none">
+                                    <span id="j-less"></span>
+                                </li>
+                            </ui>
+                        </div>
+                        <div class="attention">
+                            <h3 class="title">关注我们</h3>
+                            <ul class="icons">
+                                <li class="icons-item">
+                                    <a href="http://weibo.com/acg178?topnav=1&wvr=6&topsug=1" target="_black"><img src="http://cimg.178.com/acg/assets/images/weibo.png">
+                                    <span>官方微博</span></a>
+                                </li>
+                                <li class="icons-item wechat">
+                                    <img src="http://cimg.178.com/acg/assets/images/wechat.png">
+                                    <span>微信公众号</span>
+                                    <div class="code">
+                                        <img src="http://img0.178.com/acg1/201607/262823669568/262823685227.jpg">
+                                        <span>扫描二维码<br>
+                                        关注178ACG公众号</span>
+                                    </div>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="copyright">
+                        <p class="copyright-about">
+                            <a href="javascript:;">关于178</a>
+                            <a href="javascript:;">招聘信息</a>
+                            <a href="javascript:;">网站地图</a>
+                            <a href="javascript:;" class="nobb">联系我们</a>
+                            <span>copyright ? 2016 powered by 178.com</span>
+                            <span>[178游戏网 版权所有]</span>
+                        </p>
+                        <p class="copyright-info">
+                            京网文【2015】0021-021　京ICP备09019508号　京ICP证090345号  BBS专项　京公网安备：11010502001242号
+                        </p>
+                    </div>
+                </div>
+            </div>
+ 
+   </div> 
+  </div> 
+  <script src="http://cimg.178.com/acg/assets/js/vendor-78ce64ba.js"></script>
+<script src="http://cimg.178.com/acg/assets/js/plugins-508c5afe.js"></script>
+<script src="http://cimg.178.com/acg/assets/js/page/head_7.23.js"></script>
+<script src="http://cimg.178.com/acg/assets/js/page/base.js"></script>
+<!--cnzz-->
+<script src='http://w.cnzz.com/c.php?id=30044031' language='JavaScript'></script>
+<script src='http://w.cnzz.com/c.php?id=30039253' language='JavaScript'></script>
+
+<script type="text/javascript">
+ $(function(){
+            $(window).getAlt({
+                warp:'.artical-content'
+            });
+ })
+</script>
+ 
+  <script charset="utf-8" src="http://changyan.itc.cn/js/??lib/jquery.js,changyan.labs.js?appid=cysrntF12"></script> 
+  <script>with(window._bd_share_config={share:[{bdCustomStyle:"http://cimg.178.com/acg/assets/css/plugin-113f2208.css"}]},document)(0)[(getElementsByTagName("head")[0]||body).appendChild(createElement("script")).src="http://bdimg.share.baidu.com/static/api/js/share.js?cdnversion="+~(-new Date/36e5)];$("body").scroll2top({parent:$(".container")});$(window).bigimg({
+            container:'.artical-content',
+            wid:778,
+            tag:'img'
+        });
+
+        $(document).ready(function(){
+
+            $('.bweixin').hover(function(){
+                $('.bdsharebuttonbox-b .bwechatbox').show();
+            },function(){
+                $('.bdsharebuttonbox-b .bwechatbox').hide();
+            });
+
+            $('.tweixin').hover(function(){
+                $('.bdsharebuttonbox-t .bwechatbox').show();
+            },function(){
+                $('.bdsharebuttonbox-t .bwechatbox').hide();
+            })
+
+            var windowHref = window.location.href,
+                src = 'http://pan.baidu.com/share/qrcode?w=250&h=250&url='+windowHref;
+
+            $('.wechat_img').attr('src',src);
+        });
+
+     </script>   
+ </body>
+</html>
